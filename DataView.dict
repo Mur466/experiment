@@ -4007,6 +4007,21 @@
      "ENTITY_ID": null,
      "CLASS_NAME": "TfmWHStatPatchPack",
      "IS_BLOCK_ADD_CARD": null
+    },{
+     "FORM_TYPE": null,
+     "FORM_KIND": "vtList",
+     "MENU_NODE_ID": 123,
+     "REC_STATE": 1,
+     "FBLOCK_ID": 2,
+     "CAPTION": "Áûסענאÿ פטקא 1",
+     "FTYPE_CLASS": "90 - TfmFastFeature1",
+     "ENTITY_NAME": null,
+     "PROPERTIES": null,
+     "ID": 91,
+     "IS_ACCESS_OBJECT": false,
+     "ENTITY_ID": null,
+     "CLASS_NAME": "TfmFastFeature1",
+     "IS_BLOCK_ADD_CARD": null
     }]
   }
  },
