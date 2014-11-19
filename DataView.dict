@@ -4022,6 +4022,21 @@
      "ENTITY_ID": null,
      "CLASS_NAME": "TfmFastFeature1",
      "IS_BLOCK_ADD_CARD": null
+    },{
+     "FORM_TYPE": null,
+     "FORM_KIND": "vtCard",
+     "MENU_NODE_ID": null,
+     "REC_STATE": 1,
+     "FBLOCK_ID": null,
+     "CAPTION": "Áûסענאÿ פטקא 2",
+     "FTYPE_CLASS": "269 - TfmFastFeature2",
+     "ENTITY_NAME": "SERV_PROC",
+     "PROPERTIES": null,
+     "ID": 92,
+     "IS_ACCESS_OBJECT": false,
+     "ENTITY_ID": 274,
+     "CLASS_NAME": "TfmFastFeature2",
+     "IS_BLOCK_ADD_CARD": null
     }]
   }
  },
